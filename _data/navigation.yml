@@ -2,11 +2,11 @@
 main:
   #- title: "Q"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-   - title: "About"
-     url: https://mmistakes.github.io/minimal-mistakes/about/
+   - title: "Introduce"
+     url: /introduce/
    - title: "Study"
-     url: /year-archive/
+     url: /study/
    - title: "Life"
-     url: /collection-archive/
+     url: /life/
   # - title: "Sitemap"
   #   url: /sitemap/
