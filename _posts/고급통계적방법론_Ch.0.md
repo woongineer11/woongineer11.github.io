@@ -1,2 +1,0 @@
-## [고급통계적방법론] Ch.0 Introduction
-
