@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Alexander Park"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /Users/woong/Library/CloudStorage/GoogleDrive-smilewj95@gmail.com/내 드라이브/박웅준1.JPG
   bio              : "조금씩 성장하는 통계학도"
   location         : "Korea, Republic of"
   email            :
@@ -280,3 +280,5 @@ defaults:
       comments: # true
       share: true
       related: true
+      sidebar: true             # 추가한 부분
+        nav: "sidebar-category" # 추가한 부분
