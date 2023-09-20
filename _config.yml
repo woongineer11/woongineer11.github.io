@@ -283,11 +283,3 @@ defaults:
       related: true
       sidebar: true             # 추가한 부분
         nav: "sidebar-category" # 추가한 부분
-
-
-# Math equation
-markdown: kramdown
-highlighter: rouge
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false
