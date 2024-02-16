@@ -95,8 +95,8 @@ analytics:
 # Site Author
 author:
   name             : "Alexander Park"
-  avatar           : /Users/woong/Library/CloudStorage/GoogleDrive-smilewj95@gmail.com/내 드라이브/박웅준1.JPG
-  bio              : "조금씩 성장하는 통계학도"
+  avatar           : "/assets/img/profile.jpeg"
+  bio              : "능동적인 사람이기"
   location         : "Korea, Republic of"
   email            : statwj95@snu.ac.kr
   links:
@@ -114,10 +114,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      # url: "https://github.com/woongineer11"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      # url: "https://instagram.com/woonginer_11"
 
 # Site Footer
 footer:
