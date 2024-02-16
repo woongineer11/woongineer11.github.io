@@ -1,5 +1,5 @@
 ---
-permalink: /category-graphical/
+permalink: /graphical/
 title: "graphical"
 layout: archive
 toc: true
