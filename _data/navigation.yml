@@ -1,7 +1,5 @@
 # main links
 main:
-  #- title: "Q"
-  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
    - title: "Graphical"
      url: /category-graphical/
    - title: "Statistics"
@@ -17,5 +15,5 @@ main:
 sidebar-category:
   - title: "SNU stat"
     children:
-      - title: "고급확률그래프모형"
+      - title: "Graphical Model"
         url:  "https://woongineer11.github.io/graphical"
