@@ -1,11 +1,11 @@
 # main links
 main:
    - title: "Graphical"
-     url: /category-graphical/
+     url: /graphical/
    - title: "Statistics"
      url: /statistics/
    - title: "Introduce"
-     url: https://woongineer11.github.io/introduction/
+     url: /introduce/
 
 
   # - title: "Sitemap"
