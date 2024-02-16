@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Alexander Park"
-  avatar           : "/assets/img/profile.jpeg"
+  avatar           : "/assets/images/profile.jpeg"
   bio              : "능동적인 사람이기"
   location         : "Korea, Republic of"
   email            : statwj95@snu.ac.kr
