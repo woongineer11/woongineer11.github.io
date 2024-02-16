@@ -2,12 +2,14 @@
 main:
   #- title: "Q"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-   - title: "Introduce"
-     url: https://woongineer11.github.io/introduction/
-   - title: "Statistics"
-     url: /study/
    - title: "Graphical"
      url: /category-graphical/
+   - title: "Statistics"
+     url: /statistics/
+   - title: "Introduce"
+     url: https://woongineer11.github.io/introduction/
+
+
   # - title: "Sitemap"
   #   url: /sitemap/
 
@@ -15,9 +17,5 @@ main:
 sidebar-category:
   - title: "SNU stat"
     children:
-      - title: "고급통계적방법론"
-        url: "https://woongineer11.github.io/methodology"
       - title: "고급확률그래프모형"
         url:  "https://woongineer11.github.io/graphical"
-      - title: "이산형자료분석"
-        url:  "https://woongineer11.github.io/discrete"
