@@ -6,8 +6,11 @@ main:
      url: /statistics/
    - title: "Machine Learning"
      url: /ml/
+   - title: "Categories"
+     url: /categories/
    - title: "Introduce"
      url: /introduce/
+  
 
 
   # - title: "Sitemap"
