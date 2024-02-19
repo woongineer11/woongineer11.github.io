@@ -4,6 +4,8 @@ main:
      url: /graphical/
    - title: "Statistics"
      url: /statistics/
+   - title: "Machine Learning"
+     url: /ml/
    - title: "Introduce"
      url: /introduce/
 
@@ -16,4 +18,9 @@ sidebar-category:
   - title: "SNU stat"
     children:
       - title: "Graphical Model"
-        url:  "https://woongineer11.github.io/graphical"
+        url:  /graphical/basics/
+      - title: "Paper Review"
+        url:  /graphical/papers/
+      - title: "Course Works"
+        url: /courseworks/
+      

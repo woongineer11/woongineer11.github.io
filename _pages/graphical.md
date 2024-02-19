@@ -1,6 +1,6 @@
 ---
 permalink: /graphical/
-title: "graphical"
+title: "Graphical"
 layout: archive
 toc: true
 toc_sticky: true
