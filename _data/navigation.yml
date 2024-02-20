@@ -1,15 +1,10 @@
 # main links
 main:
-   - title: "Graphical"
-     url: /graphical/
-   - title: "Statistics"
-     url: /statistics/
-   - title: "Data Science"
-     url: /ds/
+   - title: "Categories"
+     url: /categories/
    - title: "Introduce"
      url: /introduce/
   
-
 
   # - title: "Sitemap"
   #   url: /sitemap/
