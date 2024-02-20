@@ -4,8 +4,8 @@ main:
      url: /graphical/
    - title: "Statistics"
      url: /statistics/
-   - title: "Machine Learning"
-     url: /ml/
+   - title: "Data Science"
+     url: /ds/
    - title: "Introduce"
      url: /introduce/
   
