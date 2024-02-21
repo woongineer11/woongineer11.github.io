@@ -13,6 +13,7 @@ toc: true
 toc_sticky: true
 
 date: 2024-02-20
+use_math: true
 ---
 
 #### 2.2.1 Nodes & Edges
@@ -32,4 +33,6 @@ date: 2024-02-20
 
 #### 2.2.3 Paths & Trails
 
+- Path: 하나라도 node와 node 사이에 edge가 있고 한 손 그리기가 되면, $X_1, ..., X_k$가 path를 이룬다고 한다.
+- Trail: path와 유사한 개념이지만 한 손 그리기로 모든 node에 다다를 수 없으면 trail.
 - 
